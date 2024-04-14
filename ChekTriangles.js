@@ -11,4 +11,3 @@ const chekTriangles = (a, b, c) => {
 console.log(chekTriangles(7, 7, 7)); // → Equilateral
 console.log(chekTriangles(5, 5, 7)); // → Isosceles
 console.log(chekTriangles(3, 4, 5)); // → Scalene
-console.log(chekTriangles(7, 7, 5)); // → Isosceles
