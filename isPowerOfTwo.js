@@ -25,3 +25,7 @@ const isPowerOfTwo1 = (n) => {
 };
 console.log(isPowerOfTwo1(16));
 console.log(isPowerOfTwo1(7));
+
+console.log(b);
+
+let b = 10;

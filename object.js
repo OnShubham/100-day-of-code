@@ -3,7 +3,7 @@ const obj1 = {
   lastname: "mali",
 };
 
-console.log(obj1);
+// console.log(obj1);
 
 const obj2 =
   ({
@@ -15,4 +15,11 @@ const obj2 =
     lastname: "kh",
   });
 
-console.log(obj2.name);
+// console.log(obj2.name);
+
+// == & ===
+
+let a = 2;
+let b = "2";
+
+// console.log(a === b);
